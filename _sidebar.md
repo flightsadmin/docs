@@ -6,6 +6,7 @@
 
   * [Installation](installation)
   * [User Guide](user-guide)
+  * [How to](usage)
   * [Admin Guide](admin-guide)
   * [FAQ](faq)
   * [Troubleshooting](troubleshooting)

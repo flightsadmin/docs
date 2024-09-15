@@ -1,11 +1,12 @@
 # Installation Guide
 
 ## Prerequisites
-- **PHP >= 8.0**
-- **Composer**
+
 - **Laravel >= 10**
-- **MySQL or PostgreSQL** database
-- **Node.js & npm** for frontend assets
+- **PHP**: Ensure PHP is installed (version 7.3 or higher).
+- **Composer**: Install [Composer](https://getcomposer.org).
+- **Node.js**: Install [Node.js](https://nodejs.org).
+- **Database of your choice, default is sqlite**
 
 ## Installation Steps
 
