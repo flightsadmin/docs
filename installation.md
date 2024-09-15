@@ -9,6 +9,14 @@
 
 ## Installation Steps
 
+### Option 1 (Automatic)
+
+    composer create-project flightsadmin/loadcontrol
+
+This will install package from [![Latest Version on Packagist](https://img.shields.io/packagist/v/flightsadmin/loadcontrol.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/loadcontrol) and complete all settings
+
+### Option 2 (Manual)
+
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/flightsadmin/wab.git
