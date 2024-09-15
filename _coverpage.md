@@ -1,11 +1,9 @@
 
-# Livewire Crud Generator
+# Aircraft weight and balance system.
 
-> A magical crud generator for `livewire/livewire`.
+> Complete Aircraft weight and balance system.
 
-Will generate: *Livewire Component, Model, Views, Factories *Need to be customised*, Update routes*
+Welcome to the Weight and Balance system documentation. This system helps manage aircraft weight, balance, and crew data for flight operations. 
 
-Works for both Laravel <9.19 compilled with Webpack and >9.19 compilled with Vitejs.
-
-[GitHub](https:github.com/flightsadmin/livewire-crud)
+[GitHub](https:github.com/flightsadmin/wab)
 [Get Started](installation.md)

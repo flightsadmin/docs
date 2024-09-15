@@ -4,8 +4,7 @@
   * [Installation](installation.md)
 
 * Usage
-  * [Usage](usage.md)
-  * [Upgrading](upgrade.md)
+  * [Usage](user-guide.md)
 
 * Other packages
-  * [Flightsamin](https://github.com/flightsadmin)
+  * [Flightsamin](https://github.com/flightsadmin/wab)

@@ -1,23 +1,47 @@
-# Installation
+# Installation Guide
 
-Installing [Livewire Crud](https://github.com/flightsadmin/livewire-crud) is really simple.
+## Prerequisites
+- **PHP >= 8.0**
+- **Composer**
+- **Laravel >= 10**
+- **MySQL or PostgreSQL** database
+- **Node.js & npm** for frontend assets
 
-- You can install the package via [Composer](https://getcomposer.org/) 
+## Installation Steps
 
-> `composer require flightsadmin/livewire-crud`
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/flightsadmin/wab.git
+    cd wab
+    ```
 
+2. **Install dependencies**:
+    ```bash
+    composer install
+    npm install && npm run build
+    ```
 
-After running `composer require flightsadmin/livewire-crud` command just run
+3. **Set up environment configuration**:
+    ```bash
+    cp .env.example .env
+    ```
 
-`php artisan crud:install`
+4. **Configure `.env`** with database credentials, app URL, etc.
 
-**This command will perfom below actions:**
+5. **Run database migrations**:
+    ```bash
+    php artisan migrate --seed
+    ```
 
-```
-Compile css/js based on 'bootstrap and fontawesome/free' using asset bundler relevant to you Laravel Version, Vitejs or Webpack.
-Flush 'node_modules' files from you folder.
-```
+6. **Start the application**:
+    ```bash
+    php artisan serve
+    ```
 
-If you choose to scaffold authentication this command will run `php artisan ui:auth` to generate Auth scaffolds using [`laravel/ui`](https://github.com/laravel/ui) package. You can skip this step if your app has authentication already. 
+7. **Default Login**
+   ```bash
+    Username: `test@example.com`
+    Password: `password`
+   ```
 
-> **If you do not have Auth you will get missing variable error once you run your scaffolds, Therefore please unsure you have auth system installed or choose yes when prompted to install authentication**
+If you're deploying to a server, you will need to configure a web server like Nginx or Apache to serve the Laravel application.

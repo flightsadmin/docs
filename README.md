@@ -1,8 +1,11 @@
-# Laravel Livewire-crud Generator
+# Weight and Balance System Documentation
 
-A livewire CRUD Generation package to help scaffold basic site files. 
+Welcome to the Weight and Balance system documentation. This system helps manage aircraft weight, balance, and crew data for flight operations. 
 
-Package is autoloaded as per Psr-4 autoloading in any laravel version above ^5.6 so no extra config required. 
-
-It uses auth middleware thus installs laravel/ui just incase you don't have any other auth mechanism.
-> **This does not mean you have to use laravel/ui.** If you have any other Auth mechanism in place you are good to go.
+## Table of Contents
+- [Installation](#installation)
+- [User Guide](#user-guide)
+- [Admin Guide](#admin-guide)
+- [Developer Guide](#developer-guide)
+- [FAQ](#faq)
+- [Troubleshooting](#troubleshooting)

@@ -1,9 +1,14 @@
-* Getting started
+* Getting Started
 
-  * [Home](/)
-  * [Installation](installation.md)
-  * [Usage](usage.md)
-  * [Upgrading](upgrade.md)
+  * [Front Matter](front)
+
+* Table of Contents
+
+  * [Installation](installation)
+  * [User Guide](user-guide)
+  * [Admin Guide](admin-guide)
+  * [FAQ](faq)
+  * [Troubleshooting](troubleshooting)
 
 * Other packages
 
