@@ -5,8 +5,8 @@
 * Table of Contents
 
   * [Installation](installation)
-  * [User Guide](user-guide)
-  * [Admin Guide](admin-guide)
+  <!-- * [User Guide](user-guide) -->
+  * [App usage](usage.md)
   * [FAQ](faq)
   * [Troubleshooting](troubleshooting)
 

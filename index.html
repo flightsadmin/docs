@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Flightsadmin | Livewire-crud</title>
@@ -8,21 +9,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '<div>Livewire Crud</div>',
+      name: '<div style="color: red">Livewire Crud</div>',
       repo: 'flightsadmin/wab',
-  	  loadSidebar: true,
-  	  autoHeader: true,
-  	  loadNavbar: true,
-  	  coverpage: true,
-  	  onlyCover: true
+      loadSidebar: true,
+      autoHeader: true,
+      loadNavbar: true,
+      coverpage: true,
+      auto2top: true,
+      onlyCover: true,
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'classic', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+      },
+      chat: {
+        // chat panel title
+        title: 'Chat',
+        // set avatar url
+        users: [
+          { nickname: 'yuki', avatar: '' },
+          { nickname: 'kokkoro', avatar: '' },
+        ],
+      },
     }
   </script>
   <!-- Docsify v4 -->
-<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-chat/lib/docsify-chat.min.js"></script>
 </body>
+
 </html>
