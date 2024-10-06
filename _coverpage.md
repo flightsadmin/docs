@@ -5,5 +5,4 @@
 
 Welcome to the Weight and Balance system documentation. This system helps manage aircraft weight, balance, and crew data for flight operations. 
 
-[GitHub](https:github.com/flightsadmin/wab)
 [Get Started](front.md)

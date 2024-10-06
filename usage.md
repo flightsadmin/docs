@@ -139,7 +139,7 @@ The chat feature allows users to communicate about flight details and other rele
 
 By following these instructions, you can efficiently manage your aircraft, crew, and pantries, and use the chat feature to communicate effectively within the system.
 
-#### **Admin Usage**
+#### **Admin User**
 
 As an administrator, you have access to advanced features for managing the Weight and Balance system. This guide provides a detailed overview of the admin-specific functionalities, including managing users, overseeing system settings, and utilizing advanced features.
 
