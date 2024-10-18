@@ -2,9 +2,5 @@
 
   * [Home](/)
   * [Installation](installation.md)
-
-* Usage
-  * [Usage](user-guide.md)
-
-* Other packages
-  * [Flightsamin](https://github.com/flightsadmin/wab)
+  * [App Usage](usage.md)
+  * [Flight Aamin](https://github.com/flightsadmin)

@@ -9,12 +9,12 @@ Application Module development status.
 |:------ |:------|
 | ✅ | Narrow Body Aircraft |
 | 🔜 | Wide Body Aircraft |
-| 🔜 | Ferighter Body Aircraft |
+| 🔜 | Freighter Aircraft |
 
 
 ### Security
 
-If you discover any security related issues, please email george@flightadmin.info instead of using the issue tracker.
+If you discover any security related issues, please email admin@flightadmin.info instead of using the issue tracker.
 
 ## Credits
 

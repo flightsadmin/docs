@@ -5,8 +5,8 @@
 * Table of Contents
 
   * [Installation](installation)
-  * [App usage](usage.md)
-  * [FAQ](faq)
+  * [App Usage](usage.md)
+  * [FAQ (Frequently Asked)](faq)
   * [Troubleshooting](troubleshooting)
 
 * Other packages
