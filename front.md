@@ -1,7 +1,7 @@
 # Full Aircarft Weight and Balance Application.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/flightsadmin/loadcontrol.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/loadcontrol)
-[![Total Downloads](https://img.shields.io/packagist/dt/flightsadmin/loadcontrol.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/loadcontrol)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/flightsadmin/flightadmin.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/flightadmin)
+[![Total Downloads](https://img.shields.io/packagist/dt/flightsadmin/flightadmin.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/flightadmin)
 
 Application Module development status.
 
@@ -19,7 +19,7 @@ If you discover any security related issues, please email admin@flightadmin.info
 ## Credits
 
 -   [George Chitechi](https://github.com/flightsadmin)
--   [All Contributors](https://github.com/flightsadmin/wab/graphs/contributors)
+-   [All Contributors](https://github.com/flightsadmin/docs/graphs/contributors)
 
 ## License
 

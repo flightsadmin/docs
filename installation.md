@@ -12,9 +12,9 @@
 
 1. **Install App:**
     ```bash
-    composer create-project flightsadmin/loadcontrol
+    composer create-project flightsadmin/flightadmin
     ```
-This will install package from [![Latest Version on Packagist](https://img.shields.io/packagist/v/flightsadmin/loadcontrol.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/loadcontrol) and complete all settings
+This will install package from [![Latest Version on Packagist](https://img.shields.io/packagist/v/flightsadmin/flightadmin.svg?style=flat-square)](https://packagist.org/packages/flightsadmin/flightadmin) and complete all settings
 
 2. **Configure `.env`** with database credentials, app URL, etc.
 
